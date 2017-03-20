@@ -1,8 +1,10 @@
 # Galennor
-Text based game 
+A text-based game running on Python.
 
-To run, only the lastest version is needed which is v.1.3.5 
-oh... and don't forget to create a initial status and save it as a text file
-for the game since it does not automatically saves the game data
+<h3>Setup</h3>
 
-See the code to see the full detail 
+v.1.3.5 is needed to run Galennor. 
+
+Please create an initial status and save it as a text file, because Galennor does not automatically save game data.
+
+Refer to the source code to see the full details of this game.
